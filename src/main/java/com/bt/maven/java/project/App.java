@@ -10,6 +10,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println("Hello jagan!");
+        System.out.println("Hello jagan!");
     }
     public void main1(  )
     {
